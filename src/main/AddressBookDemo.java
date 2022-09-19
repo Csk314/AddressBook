@@ -15,7 +15,7 @@ public class AddressBookDemo {
 
 	}
 
-	public static void main(String[] args) throws LengthException {
+	public static void main(String[] args) {
 
 		try {
 			PhoneNumber p1 = new PhoneNumber();
